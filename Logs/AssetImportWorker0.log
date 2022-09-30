@@ -1,0 +1,27 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.31f1 (6b54b7616050) revision 7034039'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19041) 64bit Enterprise' Language: 'en' Physical Memory: 3947 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.31f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Studi Indepent Game Developer/Pembuatan Game First Person Shooter 3D/Project Unity/Space Shooter
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56676
+Successfully changed project path to: D:/Studi Indepent Game Developer/Pembuatan Game First Person Shooter 3D/Project Unity/Space Shooter
+D:/Studi Indepent Game Developer/Pembuatan Game First Person Shooter 3D/Project Unity/Space Shooter
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24133.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.31f1 (6b54b7616050)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Studi Indepent Game Developer/Pembuatan Game First Person Shooter 3D/Project Unity/Space Shooter/Assets
+GfxDevice: creating device client; threaded=0
